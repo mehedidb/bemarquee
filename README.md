@@ -19,13 +19,13 @@
 <script src="jquery/bemarquee.jquery.js"></script>
 
 ## HTML Markup
-
+```
 <div class="be-marquee" data-settings='{"direction":"left"}'>
   <div class="be-marquee-inner">
     <div class="marquee-item">Item</div>
   </div>
 </div>
-
+```
 ## Options
 direction, speed, gap, loop,
 pause_on_hover, pause_on_click,
