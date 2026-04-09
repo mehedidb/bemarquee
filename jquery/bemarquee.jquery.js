@@ -1,6 +1,5 @@
 /*
  BeMarquee Js
- Copyright (C) Mehedi Hasan Nahid
  v-1.0.0
  https://github.com/mehedidb/bemarquee
  Copyright (C) Mehedi Hasan Nahid
