@@ -1,3 +1,12 @@
+/*
+ BeMarquee Js
+ Copyright (C) Mehedi Hasan Nahid
+ v-1.0.0
+ https://github.com/mehedidb/bemarquee
+ Copyright (C) Mehedi Hasan Nahid
+ Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
+ */
+
 "use strict";
 
 (function ($) {
